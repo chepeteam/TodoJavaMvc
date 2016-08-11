@@ -97,7 +97,7 @@
 <td>5</td>
 <td>4</td>
 <td>3</td>
-<td><b>/31<b></td>
+<td><b>31</b></td>
 </tr>
 <tr>
 <td>Struts</td>
