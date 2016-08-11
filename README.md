@@ -85,7 +85,7 @@
 <td>3</td>
 <td><span style="color: #85b8d5;"><strong>4.5</strong></span></td>
 <td>3.5</td>
-<td><b>26.5/b></td>
+<td><b>26.5</b></td>
 </tr>
 <tr>
 <td>Play</td>
