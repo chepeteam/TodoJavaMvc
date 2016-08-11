@@ -9,7 +9,7 @@
 <p>
   La <b>selección</b> de frameworks, la idea es hacer un seguimiento al artículo <a href='http://zeroturnaround.com/rebellabs/the-curious-coders-java-web-frameworks-comparison-spring-mvc-grails-vaadin-gwt-wicket-play-struts-and-jsf/' target='_new'>The Ultimate Java Web Frameworks Comparison: Spring MVC, Grails, Vaadin, GWT, Wicket, Play, Struts and JSF.</a>
 </p>
-<h4>Obteniendo los siguientes resultados: </h4>
+<h4>Quienes nos entregan los siguientes resultados: </h4>
 <p>
   <table class="zebra" style="font-size: 0.8em;">
 <thead>
